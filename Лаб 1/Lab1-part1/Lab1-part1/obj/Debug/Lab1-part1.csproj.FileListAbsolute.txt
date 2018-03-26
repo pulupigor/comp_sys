@@ -1,0 +1,6 @@
+C:\Users\Ігор\Desktop\Наука\Комп'ютерні системи\Лаб 1\Lab1-part1\Lab1-part1\bin\Debug\Lab1-part1.exe.config
+C:\Users\Ігор\Desktop\Наука\Комп'ютерні системи\Лаб 1\Lab1-part1\Lab1-part1\bin\Debug\Lab1-part1.exe
+C:\Users\Ігор\Desktop\Наука\Комп'ютерні системи\Лаб 1\Lab1-part1\Lab1-part1\bin\Debug\Lab1-part1.pdb
+C:\Users\Ігор\Desktop\Наука\Комп'ютерні системи\Лаб 1\Lab1-part1\Lab1-part1\obj\Debug\Lab1-part1.csprojResolveAssemblyReference.cache
+C:\Users\Ігор\Desktop\Наука\Комп'ютерні системи\Лаб 1\Lab1-part1\Lab1-part1\obj\Debug\Lab1-part1.exe
+C:\Users\Ігор\Desktop\Наука\Комп'ютерні системи\Лаб 1\Lab1-part1\Lab1-part1\obj\Debug\Lab1-part1.pdb
