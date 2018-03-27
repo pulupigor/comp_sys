@@ -46,12 +46,10 @@ namespace Lab1_part1
             }
 
             double frequency,entropy=0,information;
-            int charLengthCounter=0;
             for (int i = 0; i < char.MaxValue; i++)
             {
                 if (c[i] > 0)
                 {
-                    charLengthCounter++;
                     frequency = (double)c[i] / s.Length;            
                     entropy += frequency * Math.Log(1/frequency,2);                 
                     Console.WriteLine("Символ: {0}  Ймовірність появи символу: {1}", (char)i, frequency);
@@ -59,7 +57,7 @@ namespace Lab1_part1
             }
                                  
             
-            information = entropy * charLengthCounter/8.0;
+            information = entropy * s.Length/8.0;
             Console.WriteLine("Середня ентропія :{0} біт         Кількість інформації : {1} байт", entropy,information);
             switch (caseSwitch)
             {
